@@ -18,11 +18,11 @@ Snippet 1
 
 (a) What does this print? Write the exact value.
 
-    Answer:
+    Answer: It will total sum of numbers. The exact value is 17.
 
 (b) In one sentence, describe in plain English what this loop computes.
 
-    Answer:
+    Answer: For the list of numbers, it will add the number when the list of numbers is greater than 4 as total. 8 and 9 matches the condition.
 
 ------------------------------------------------------------------
 Snippet 2
@@ -37,6 +37,6 @@ Snippet 2
 (c) Write the two lines this program prints, in order.
 
     Answer:
-    Line 1:
-    Line 2:
+    Line 1: Hello, world!
+    Line 2: Hello, Ada!
 """
